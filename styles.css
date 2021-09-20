@@ -12,6 +12,9 @@ body {
 .postcard-header {
 	display: flex;
 	margin-bottom: 5%;
+	padding-left: 10px;
+	padding-right: 10px;
+	padding-top: 10px;
 }
 
 img {
@@ -27,6 +30,8 @@ h1 {
 
 .postcard-body {
 	display: flex;
+	padding-left: 10px;
+	padding-right: 10px;
 }
 
 .body-left {
@@ -44,7 +49,7 @@ h1 {
 button {
 	background: grey;
 	padding: 2%;
-	margin-top: 10%;
+	margin-top: 5%;
 }
 
 input {
